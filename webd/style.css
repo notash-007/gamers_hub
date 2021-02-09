@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(#FFEFBA,#FFFFFF);
+}
+
+.tgh a{
+    font-size: 30px;
+    background: -webkit-linear-gradient(#3D7EAA,#FFE47A);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+
+.nav-item a{
+    text-align: right;
+    background: -webkit-linear-gradient(#2BC0E4,#EAECC6);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+
+.nav-item a:hover {
+    background: -webkit-linear-gradient(#FFF720,#3CD500);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+
+.hd {
+    margin: 50px;
+    padding: 30px;
+    font-family: 'Lemonada', cursive;
+}
+
+.hd h3{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: underline;
+    background: -webkit-linear-gradient(#F05F57,#360940);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    word-spacing: 7px;
+}
+
+.game {
+    margin: 20px;
+    padding: 20px;
+}
+
+.gh h3{
+    margin: 10px;
+    padding-top: 0px;
+    text-align: center;
+    background: -webkit-linear-gradient(#360033,#0b8793);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+   
+.gh p{
+    margin: 0;
+    padding: 20px 70px;
+    font-size: 25px;
+}
+
+.gd h2{
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    background: -webkit-linear-gradient(#360033,#0b8793);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+ .van{
+     margin-left: 250px;
+ }
+
+ .gd p{
+    margin: 0;
+    padding: 20px 70px;
+    font-size: 25px;
+ }
+
+ .agents h3{
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    background: -webkit-linear-gradient(#360033,#0b8793);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+ }  
+
+ .agents p {
+    margin: 0;
+    padding: 20px 70px;
+    font-size: 25px;
+ }
+
+ .de p{
+    margin: 5px;
+    padding: 5px;
+    text-shadow: 5px;
+    text-align: center;
+    background: -webkit-linear-gradient(#59C173,#a17fe0,#5D26C1);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+
+.rating p{
+    margin: 50px;
+    letter-spacing: 4px;
+    font-size: 38px;
+    text-align: center;
+    
+    background: -webkit-linear-gradient(#59C173,#a17fe0,#5D26C1);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+
+.nav-link {
+    text-align: right;
+}
+
+.van1 {
+    margin-left: 470px;
+}
+
+.van2 {
+    margin-left: 280px;
+}
+
+.dea p{
+    font-size: 28px;
+    text-align: center;
+    background: -webkit-linear-gradient(#59C173,#a17fe0,#5D26C1);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+
+}
+
+.images{
+    margin: 50px;
+    padding: 30px;
+    font-family: 'Lemonada', cursive;
+}
+
+.images h1 {
+    text-align: center;
+    background: -webkit-linear-gradient(#F05F57,#360940);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    letter-spacing: 2px;
+}
+
+.ghh p{
+    margin: 10px;
+    padding-top: 0px;
+    text-align: center;
+    background: -webkit-linear-gradient(#360033,#0b8793);-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+
+.vanx {
+    margin: 10px;
+    margin-left: 70px;
+    padding: 5px;
+}
